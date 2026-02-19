@@ -53,6 +53,7 @@ header > h1 {
 
 header > nav {
     margin-right: 70px;
+    margin-left: 40px;
 }
 
 header > nav > a {
@@ -173,5 +174,4 @@ footer {
     background-color: var(--cor2);
     color: var(--cor3);
     padding: 20px;
-
 }
