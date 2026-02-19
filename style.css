@@ -111,7 +111,7 @@ header > nav > a:hover {
     color: var(--cor3);
 }
 .main-top-bottom img {
-    width: 50vw;
+    width: 44vw;
 }
 
 #sec-bottom {
@@ -173,4 +173,5 @@ footer {
     background-color: var(--cor2);
     color: var(--cor3);
     padding: 20px;
+
 }
